@@ -1,2 +1,0 @@
-# GEOPANDAS
-Mapas herramienta GEOPANDAS 
